@@ -1,12 +1,7 @@
 #include<stdio.h>
 #include<string.h>
-/*int main()
-{   char a = '0';
-	char ch = '0';
-	while ((ch = getchar()) != a)
-	{
-		putchar(ch);
-
-		}
+int main(void)
+{
+	printf("this is a test");
 	return 0;
-}*/
+}
